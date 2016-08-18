@@ -1,11 +1,8 @@
 # Hobbit-KoM-Auto-Mining-PC
 
-This program is coded in Sikuli X and AutoIt
+For info on my bot join my discord https://discord.gg/vb682Jr
 
-Prerequisites: PC or PC emulator and Bluestacks
+We are still active as of 8/18/16
 
-Images must go in the same folder as scripts to prevent "image not found".
-
-Include scripts go in the same folder as scripts.
-
+We have a range of bots for KOM including great features check out my forum post on ankulua: http://ankulua.boards.net/thread/101
 
